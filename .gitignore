@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log and meta files
+*.log
+*_meta.txt
+
+# Data (optional - uncomment if you want to exclude the raw data)
+# data/
+
+# Outputs are tracked but can be regenerated
+# outputs/

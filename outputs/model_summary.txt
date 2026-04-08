@@ -1,0 +1,19 @@
+Rainfall Prediction Classifier - Model Summary
+
+Results by model:
+- Random Forest
+  CV Accuracy: 0.8367
+  Test Accuracy: 0.8300
+  Macro F1: 0.7238
+  Weighted F1: 0.8140
+  Best Params: {"classifier__max_depth": null, "classifier__min_samples_split": 2, "classifier__n_estimators": 50}
+
+- Logistic Regression
+  CV Accuracy: 0.8396
+  Test Accuracy: 0.8450
+  Macro F1: 0.7571
+  Weighted F1: 0.8340
+  Best Params: {"classifier__class_weight": null, "classifier__penalty": "l2", "classifier__solver": "liblinear"}
+
+Best model by CV accuracy:
+- Logistic Regression (0.8396)
