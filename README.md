@@ -79,4 +79,4 @@ It also prints:
 - Package this into a small API or web app for deployment
 
 ## Author
-Student project for machine learning practice.
+Mtar Rayen student project for machine learning practice.
